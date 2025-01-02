@@ -1,0 +1,19 @@
+{
+    "superheroes": [
+        {
+            "id":1,
+            "name":"Flash",
+            "alterego":"Barry"
+        },
+        {
+            "id":2,
+            "name":"Supergirl",
+            "alterego":"Kara"
+        },
+        {
+            "id":3,
+            "name":"Arrow",
+            "alterego":"Oliver"
+        }
+    ]
+}
