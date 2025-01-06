@@ -15,20 +15,6 @@
         "name": "Arrow08",
         "alterego": "Oliver"
       }
-    ],
-    "friends": [
-        {
-          "id": 1,
-          "name": "Chandler"
-        },
-        {
-          "id": 2,
-          "name": "Joey"
-        },
-        {
-          "id": 3,
-          "name": "Phoebe"
-        }
-      ]
+    ]
   }
   
